@@ -1,0 +1,9 @@
+Post http://localhost:3000/products
+Content-Type: application/json
+
+{
+  "id": 123,
+  "name" : "asdsd",
+  "description" : "asdsd",
+  "price": 500
+}
